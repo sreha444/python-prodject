@@ -1,2 +1,2 @@
-# python-prodject
+# python-project
 python project
